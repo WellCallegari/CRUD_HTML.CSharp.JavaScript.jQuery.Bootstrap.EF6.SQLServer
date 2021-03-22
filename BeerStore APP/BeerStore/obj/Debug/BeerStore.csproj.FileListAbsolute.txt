@@ -1,0 +1,12 @@
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.addcliente.resources
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.Properties.Resources.resources
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.csproj.GenerateResource.cache
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.csproj.CoreCompileInputs.cache
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\bin\Debug\BeerStore.exe.config
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\bin\Debug\BeerStore.exe
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\bin\Debug\BeerStore.pdb
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.exe
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.pdb
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\obj\Debug\BeerStore.Menu.resources
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\bin\Debug\BeerStore.exe.CodeAnalysisLog.xml
+E:\Cursos\BeerStore\CRUD\BeerStore\BeerStore\bin\Debug\BeerStore.exe.lastcodeanalysissucceeded
